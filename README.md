@@ -6,4 +6,8 @@ Além de utilizar esse projeto para o aprofundamento dos meus conhecimentos, exi
 ## Screenshot  da aplicação ReactJs(PerfilCard):
 Todos os icones apresentados na tela são clicáveis e redirecionam o usuário.
 
+##### [ACESSE O PROJETO CLICANDO AQUI!](https://perfilcard-dev.netlify.app/)
+
 ![Screenshot MyPerfilCard](/Preview/MyPerfilCard.jpg)
+
+
